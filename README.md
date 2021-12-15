@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently brushing up my html, css & JS skills.
-- 🔭 My main long-term goal is to level up my front-end development competence.
+- 🌱 I’m currently on a road to conquer html, css & JS.
+- 🔭 My main long-term goal is to level up my front-end competence.
 - ⚡ Fun fact: I have a BSc degree in Biology
 
 <!--
