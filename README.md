@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently on a road to conquer html, css & JS.
 - 🔭 My main long-term goal is to level up my front-end skills.
-- ⚡ Fun fact: I have a BSc degree in Biology
 
 <!--
 **psychonautweb/psychonautweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
