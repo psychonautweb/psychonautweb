@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 Thank you for visiting my GitHub profile. For now, you'll find some exercises, small tasks I did during last couple of months while learning and having fun with the code.
-- 🔭 I'm taking step by step, approach to learning Web Development. My main long-term goal is to master React library and hopefully Next.js framework.
+- 🌱 Thank you for visiting my GitHub profile. For now, here you'll find some exercises and small tasks I did during last couple of months while learning and having fun with the code.
+- 🔭 My main long-term goal is to master React library and Next.js framework.
 
 <!--
 **psychonautweb/psychonautweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
